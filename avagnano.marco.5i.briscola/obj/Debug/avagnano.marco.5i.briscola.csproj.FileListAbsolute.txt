@@ -1,0 +1,88 @@
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe.config
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.pdb
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csprojResolveAssemblyReference.cache
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.g.cs
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\App.g.cs
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.cache
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.lref
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.baml
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.g.resources
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco._5i.briscola.Properties.Resources.resources
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csproj.GenerateResource.Cache
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.exe
+c:\users\mark98\documents\visual studio 2015\Projects\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe.config
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csprojResolveAssemblyReference.cache
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.g.cs
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\App.g.cs
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.cache
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.lref
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.baml
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.g.resources
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco._5i.briscola.Properties.Resources.resources
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csproj.GenerateResource.Cache
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe.config
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csprojResolveAssemblyReference.cache
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\MainWindow.g.cs
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\App.g.cs
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.cache
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.lref
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\MainWindow.baml
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.g.resources
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco._5i.briscola.Properties.Resources.resources
+C:\Users\lab113\Desktop\avagnano.marco.5i.briscosla\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csproj.GenerateResource.Cache
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe.config
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.g.cs
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\App.g.cs
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.cache
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.lref
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.baml
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.g.resources
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco._5i.briscola.Properties.Resources.resources
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csproj.GenerateResource.Cache
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csprojResolveAssemblyReference.cache
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe.config
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csprojResolveAssemblyReference.cache
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.g.cs
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\App.g.cs
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.cache
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.lref
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.baml
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.g.resources
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco._5i.briscola.Properties.Resources.resources
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csproj.GenerateResource.Cache
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\StartGame.g.cs
+C:\Users\Mark98\Desktop\BRISCOLA\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\StartGame.baml
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe.config
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.exe
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\bin\Debug\avagnano.marco.5i.briscola.pdb
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.g.cs
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\App.g.cs
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.cache
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola_MarkupCompile.lref
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\MainWindow.baml
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.g.resources
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco._5i.briscola.Properties.Resources.resources
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csproj.GenerateResource.Cache
+C:\Users\Ospite\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\avagnano.marco.5i.briscola.csprojResolveAssemblyReference.cache
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\StartGame.g.cs
+C:\Users\Mark98\Desktop\avagnano.marco.5i.briscola\avagnano.marco.5i.briscola\obj\Debug\StartGame.baml
